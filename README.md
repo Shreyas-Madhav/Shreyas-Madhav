@@ -18,7 +18,7 @@
 </br></br>
 <h3 >Languages and Tools</h3>
 <p>
-  <img align="right" img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreyas-Madhav&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img align="right" img height="150em" src="https://github-readme-stats.vercel.app/api?username=Shreyas-Madhav&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  
 </p>
 
