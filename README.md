@@ -16,7 +16,7 @@
 <img align="right" alt="GIF" src="Images/coding.gif" width="450" height="280" />
 <h4> I am a Undergraduate Computer Science Student @ VIT Chennai. </br> </br>As a computer vision researcher, I develop AI solutions and software applications to assist humans and robots to make effective decisions by understanding visual data. My experience in design also motivates me to compliment the core logic of the applications with attractive front ends.</h4> This GitHub Account currently stores repos produced for my research papers as well as personal projects I complete for learning new languages/frameworks.
 </br></br>
-<h3 >Languages and Tools</h3>
+<h2 >Languages and Tools</h2>
 <p>
   <img align="right" img height="190em" src="https://github-readme-stats.vercel.app/api?username=Shreyas-Madhav&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  
