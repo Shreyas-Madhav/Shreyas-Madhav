@@ -1,5 +1,7 @@
 <div align=center>
-#Shreyas Madhav
+<h1>Shreyas Madhav</h1>
+<br/>
+
 <br/><br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-madhav-a-v/)
