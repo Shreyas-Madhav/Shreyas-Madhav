@@ -14,7 +14,6 @@
 
 </div>
 </br></br>
-<img align="right" alt="GIF" src="Images/coding.gif" width="450" height="280" />
 I am a Graduate Student of Computer Science @ UC Davis. </br> </br>As a computer vision researcher, I develop AI solutions and software applications to assist humans and robots to make effective decisions by understanding visual data. My experience in design also motivates me to compliment the core logic of the applications with attractive front ends. This GitHub Account currently stores repos produced for my research papers as well as personal projects.
 </br></br>
 <h2 >Languages and Tools</h2>
